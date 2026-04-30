@@ -91,8 +91,8 @@
         arrow {
             display-name = "layer3";
             bindings = <
-&kp Q             &kp W   &kp E         &kp R             &kp T                                   &kp PAGE_UP     &kp HOME        &kp I            &kp O   &kp BACKSPACE
-&kp A             &kp S   &kp D         &kp F             &kp G                                   &kp PAGE_DOWN   &kp UP_ARROW    &trans           &kp L   &kp ENTER
+&kp Q             &kp W   &kp E         &kp R             &kp T                                   &trans          &trans          &kp I            &kp O   &kp BACKSPACE
+&kp A             &kp S   &kp D         &kp F             &kp G                                   &kp H           &kp UP_ARROW    &trans           &kp L   &kp ENTER
 &kp LEFT_SHIFT    &kp M   &kp F2        &kp LEFT_BRACKET  &kp RIGHT_BRACKET                       &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &kp SPACE
 &kp LEFT_CONTROL  &trans  &kp LEFT_ALT  &kp SPACE         &kp SPACE          &kp CLCK  &kp SPACE  &kp SPACE       &trans          &trans           &trans  &trans
                   &trans  &trans        &trans            &trans             &trans    &trans     &trans          &trans          &trans           &trans

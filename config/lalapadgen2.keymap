@@ -48,14 +48,9 @@
     combos {
         compatible = "zmk,combos";
 
-        CONBO_ESC {
-            bindings = <&kp ESCAPE>;
-            key-positions = <0 1>;
-        };
-
-        COMBO_TAB {
-            bindings = <&kp TAB>;
-            key-positions = <10 11>;
+        caplock {
+            bindings = <&kp CAPSLOCK>;
+            key-positions = <13 12>;
         };
     };
 

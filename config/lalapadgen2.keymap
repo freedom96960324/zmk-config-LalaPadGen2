@@ -52,11 +52,6 @@
             bindings = <&kp CAPSLOCK>;
             key-positions = <13 12>;
         };
-
-        leftclick {
-            bindings = <&none>;
-            key-positions = <16 17>;
-        };
     };
 
     keymap {

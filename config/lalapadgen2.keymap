@@ -52,6 +52,11 @@
             bindings = <&kp CAPSLOCK>;
             key-positions = <13 12>;
         };
+
+        ctrl-v {
+            bindings = <&kp RC(V)>;
+            key-positions = <6 7>;
+        };
     };
 
     keymap {
